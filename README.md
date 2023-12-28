@@ -1,2 +1,0 @@
-# BetaInstallerArch
-test
