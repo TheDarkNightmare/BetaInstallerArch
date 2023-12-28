@@ -1,0 +1,2 @@
+# BetaInstallerArch
+test
